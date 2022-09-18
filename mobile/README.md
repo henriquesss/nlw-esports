@@ -1,0 +1,6 @@
+- Status bar translúcida (ícones sobrepostos)
+- Instação de fontes personalizadas
+- Componente de Loading com boas práticas
+- Lib react-native-safe-area-context = Serve para ajustar todos os conteúdos dentro da área útil da tela (fora dos detalhes específicos de Iphones ou câmeras invadindo a tela)
+- Lib expo-linear-gradient = Serve pra fazer gradiente kk
+- Organização de componentes em lista (horizontal)

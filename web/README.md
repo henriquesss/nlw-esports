@@ -1,0 +1,4 @@
+- Edição de tema com Tailwind
+- Uso simples de Grid css
+- Card com informações sobrepostas com gradiente atrás
+- Borda da div com gradiente usando Tailwind + gambiarras
